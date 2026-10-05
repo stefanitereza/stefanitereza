@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**stefanitereza/stefanitereza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou a Stéfani 👋
 
-Here are some ideas to get you started:
+### Estudante de Tecnologia & Desenvolvedora em Formação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="linkedin.com/in/stéfani-tereza-freitas-figueiredo-b87122380"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:stefani.tereza10@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+</div>
+
+### ✦ Sobre Mim
+
+> "Construindo uma base sólida, uma linha de código por vez."
+
+- 🎓 Cursando **[Nome do Curso / Faculdade]**
+- 🔭 Atualmente explorando os fundamentos da computação e desenvolvimento de software
+- 📚 No momento estudando **[ex: Lógica de Programação, Python, Estruturas de Dados]**
+- 🎯 Foco atual: criar projetos práticos e fortalecer meu portfólio
+- 💬 Me chame para conversar sobre tecnologia, estudos e projetos colaborativos
+
+---
+
+### ✦ Conhecimentos & Tecnologias
+
+<!-- Badges monocromáticos e limpos (ajuste as linguagens conforme o que ela usa) -->
